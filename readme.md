@@ -11,7 +11,7 @@ GO111MODULE=on go get github.com/k-sau/grd
 
 ### Usage
 ```
-bbrf scope in --wildcard -p verizonmedia | grd
+bbrf scope in -p verizonmedia | grd
 
 yahoo.com
 flurry.com
